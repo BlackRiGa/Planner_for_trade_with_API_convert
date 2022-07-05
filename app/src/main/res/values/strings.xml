@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Planner trade</string>
+    <string name="no_TASKS">No items</string>
+    <string name="menu_insert">Add Item</string>
+    <string name="todo_brief">Theme</string>
+    <string name="todo_description">Delete this point</string>
+    <string name="theme">Theme</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+</resources>
